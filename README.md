@@ -10,32 +10,12 @@ Skill IQ Leaders - /api/skilliq
 
 You can also find all resources and designs needed for this project here 
 
+SCREENSHOTS 
 
-
-
-
-
-
-Submission
-
-The submission will be done through your App. Before submitting your project, ensure you have pushed your code to GitHub and include screenshots of your App in the Repo.
-
-To submit your project, you are expected to;
-
-Make a NETWORK POST request to this Google Form using any network library. [Retrofit is recommended.] See screen No. 4. (submission form)
-Base url - https://docs.google.com/forms/d/e/
-Form ID-1FAIpQLSf9d1TcNU6zc6KR8bSEM41Z1g1zl35cwZr2xyjIhaMAz8WChQ/formResponse
-FullURL- https://docs.google.com/forms/d/e/1FAIpQLSf9d1TcNU6zc6KR8bSEM41Z1g1zl35cwZr2xyjIhaMAz8WChQ/formResponse
-Entries IDs:
-Email Address = entry.1824927963
-Name = entry.1877115667
-Last Name = entry.2006916086
-Link to project = entry.284483984
-
-[Hint]: Wondering how to use the Entry ids in your request ? 
-                See example below using Retrofit.
-
-
-
-
-Submit your feedback on the practice project here - bit.ly/GADSPracticeProjectSubmission
+![confirmation](https://user-images.githubusercontent.com/41937466/92950486-9f951800-f454-11ea-80fb-a2e3734bbce0.jpg)
+![failure](https://user-images.githubusercontent.com/41937466/92950490-a0c64500-f454-11ea-8749-604813fe7e7f.jpg)
+![learning leaders](https://user-images.githubusercontent.com/41937466/92950493-a15edb80-f454-11ea-91f9-59018fb12b0e.jpg)
+![skill iq leaders](https://user-images.githubusercontent.com/41937466/92950496-a1f77200-f454-11ea-8280-9207aa49346c.jpg)
+![splash screen](https://user-images.githubusercontent.com/41937466/92950497-a2900880-f454-11ea-8623-7a44aa0e6781.jpg)
+![submit page](https://user-images.githubusercontent.com/41937466/92950498-a2900880-f454-11ea-86a0-a711e7bb17fa.jpg)
+![success](https://user-images.githubusercontent.com/41937466/92950500-a3289f00-f454-11ea-9e75-fd3c47d96467.jpg)
